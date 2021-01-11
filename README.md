@@ -8,3 +8,14 @@ There are two options available:
 * [Kubernetes](k8s)
 
 Check out the [sample](sample).
+
+## Images
+
+### Running the script
+
+![](img/script.png)
+
+### Dashboard
+
+![](img/dashboard1.png)
+![](img/dashboard2.png)
