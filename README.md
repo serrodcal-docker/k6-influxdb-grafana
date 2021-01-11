@@ -17,5 +17,5 @@ Check out the [sample](sample).
 
 ### Dashboard
 
-![](img/dashboard1.png)
-![](img/dashboard2.png)
+![](img/dashboard_1.png)
+![](img/dashboard_2.png)
