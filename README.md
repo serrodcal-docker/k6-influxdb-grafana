@@ -19,3 +19,8 @@ Check out the [sample](sample).
 
 ![](img/dashboard_1.png)
 ![](img/dashboard_2.png)
+
+## References
+
+* [k6](https://k6.io/)
+* [k6 InfluxDB and Grafana](https://k6.io/docs/results-visualization/influxdb-+-grafana)
