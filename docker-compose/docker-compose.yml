@@ -5,7 +5,8 @@ networks:
 
 services:
   influxdb:
-    image: influxdb:latest
+    #image: influxdb:latest
+    image: influxdb:1.8.3
     networks:
       - grafana
     ports:
@@ -14,7 +15,8 @@ services:
       - INFLUXDB_DB=k6
 
   grafana:
-    image: grafana/grafana:latest
+    #image: grafana/grafana:latest
+    image: grafana/grafana:7.3.6
     networks:
       - grafana
     ports:
